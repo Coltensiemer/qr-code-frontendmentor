@@ -8,7 +8,7 @@ import Footer from "/src/components/Footer"
 export default function App() { 
     return ( 
       
-        <div className="m-0 bg-blue-100">
+        <div className="m-0">
         <Main />
         <Footer />
         </div>
